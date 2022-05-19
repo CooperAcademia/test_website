@@ -59,8 +59,8 @@ id = "G-0DC6ZKWEJ3"
 
 [languages]
 [languages.en]
-title = "Goldydocs"
-description = "A Docsy example site"
+title = "Newcastle Cognition Lab"
+description = "A site for blogposts and documentation fromn the Newcastle Cognuition Lab"
 languageName ="English"
 time_format_default = "2006-01-02"
 time_format_blog = "2006-01-02"
@@ -93,7 +93,7 @@ time_format_blog = "2006-01-02"
 
 # Everything below this are Site Params
 [params]
-copyright = "The Docsy Authors"
+copyright = "The Newcastle Cognition Lab"
 privacy_policy = "https://policies.google.com/privacy"
 
 # First one is picked as the Twitter card image if not set on page.
@@ -297,7 +297,7 @@ enable = true
   weight = 4
   url = "/blog/"
 [[menu.main]]
-  name = "Community"
+  name = "People"
   weight = 5
-  url = "/community/"
+  url = "/people/"
 
