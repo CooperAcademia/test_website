@@ -1,4 +1,4 @@
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Newcastle Cognition Lab – Documentation</title><link>https://cooperacademia.github.io/test_website/docs/</link><description>Recent content in Documentation on Newcastle Cognition Lab</description><generator>Hugo -- gohugo.io</generator><atom:link href="https://cooperacademia.github.io/test_website/docs/index.xml" rel="self" type="application/rss+xml"/><item><title>Rmarkdown: Basic R markdown</title><link>https://cooperacademia.github.io/test_website/rmarkdown/examples/example_rmd/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://cooperacademia.github.io/test_website/rmarkdown/examples/example_rmd/</guid><description>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Newcastle Cognition Lab – Documentation</title><link>https://cooperacademia.github.io/docs/</link><description>Recent content in Documentation on Newcastle Cognition Lab</description><generator>Hugo -- gohugo.io</generator><atom:link href="https://cooperacademia.github.io/docs/index.xml" rel="self" type="application/rss+xml"/><item><title>Rmarkdown: Basic R markdown</title><link>https://cooperacademia.github.io/rmarkdown/examples/example_rmd/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://cooperacademia.github.io/rmarkdown/examples/example_rmd/</guid><description>
 &lt;script src="../rmarkdown-libs/htmlwidgets/htmlwidgets.js">&lt;/script>
 &lt;script src="../rmarkdown-libs/plotly-binding/plotly.js">&lt;/script>
 &lt;script src="../rmarkdown-libs/typedarray/typedarray.min.js">&lt;/script>
@@ -53,7 +53,7 @@ ggplotly(p)
 &lt;div id="ref-R-2021" class="csl-entry">
 &lt;p>R Core Team. 2020. &lt;em>R: A Language and Environment for Statistical Computing&lt;/em>. Vienna, Austria: R Foundation for Statistical Computing. &lt;a href="https://www.R-project.org/">https://www.R-project.org/&lt;/a>.&lt;/p>
 &lt;/div>
-&lt;/div></description></item><item><title>Docs: Bed and Chair Metrics</title><link>https://cooperacademia.github.io/test_website/docs/tasks/beds/</link><pubDate>Thu, 05 Jan 2017 00:00:00 +0000</pubDate><guid>https://cooperacademia.github.io/test_website/docs/tasks/beds/</guid><description>
+&lt;/div></description></item><item><title>Docs: Bed and Chair Metrics</title><link>https://cooperacademia.github.io/docs/tasks/beds/</link><pubDate>Thu, 05 Jan 2017 00:00:00 +0000</pubDate><guid>https://cooperacademia.github.io/docs/tasks/beds/</guid><description>
 &lt;div class="pageinfo pageinfo-primary">
 &lt;p>This is a placeholder page. Replace it with your own content.&lt;/p>
 &lt;/div>
@@ -320,7 +320,7 @@ This is a warning with a title.
 &lt;h3 id="external-links">External Links&lt;/h3>
 &lt;p>Stumptown PBR&amp;amp;B keytar plaid street art, forage XOXO pitchfork selvage affogato green juice listicle pickled everyday carry hashtag. Organic sustainable letterpress sartorial scenester intelligentsia swag bushwick. Put a bird on it stumptown neutra locavore. IPhone typewriter messenger bag narwhal. Ennui cold-pressed seitan flannel keytar, single-origin coffee adaptogen occupy yuccie williamsburg chillwave shoreditch forage waistcoat.&lt;/p>
 &lt;pre>&lt;code>This is the final element on the page and there should be no margin below this.
-&lt;/code>&lt;/pre></description></item><item><title>Docs: Configuring Ponycopters</title><link>https://cooperacademia.github.io/test_website/docs/tasks/ponycopters/configuring-ponycopters/</link><pubDate>Thu, 05 Jan 2017 00:00:00 +0000</pubDate><guid>https://cooperacademia.github.io/test_website/docs/tasks/ponycopters/configuring-ponycopters/</guid><description>
+&lt;/code>&lt;/pre></description></item><item><title>Docs: Configuring Ponycopters</title><link>https://cooperacademia.github.io/docs/tasks/ponycopters/configuring-ponycopters/</link><pubDate>Thu, 05 Jan 2017 00:00:00 +0000</pubDate><guid>https://cooperacademia.github.io/docs/tasks/ponycopters/configuring-ponycopters/</guid><description>
 &lt;div class="pageinfo pageinfo-primary">
 &lt;p>This is a placeholder page. Replace it with your own content.&lt;/p>
 &lt;/div>
@@ -587,7 +587,7 @@ This is a warning with a title.
 &lt;h3 id="external-links">External Links&lt;/h3>
 &lt;p>Stumptown PBR&amp;amp;B keytar plaid street art, forage XOXO pitchfork selvage affogato green juice listicle pickled everyday carry hashtag. Organic sustainable letterpress sartorial scenester intelligentsia swag bushwick. Put a bird on it stumptown neutra locavore. IPhone typewriter messenger bag narwhal. Ennui cold-pressed seitan flannel keytar, single-origin coffee adaptogen occupy yuccie williamsburg chillwave shoreditch forage waistcoat.&lt;/p>
 &lt;pre>&lt;code>This is the final element on the page and there should be no margin below this.
-&lt;/code>&lt;/pre></description></item><item><title>Rmarkdown: Installation</title><link>https://cooperacademia.github.io/test_website/rmarkdown/install/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://cooperacademia.github.io/test_website/rmarkdown/install/</guid><description>
+&lt;/code>&lt;/pre></description></item><item><title>Rmarkdown: Installation</title><link>https://cooperacademia.github.io/rmarkdown/install/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://cooperacademia.github.io/rmarkdown/install/</guid><description>
 &lt;h2 id="quick-start">Quick start&lt;/h2>
 &lt;ul>
 &lt;li>Click on the &lt;strong>Use this Template&lt;/strong> button.&lt;/li>
@@ -656,7 +656,7 @@ hugo serve -b &amp;quot;http://localhost&amp;quot;
 git add .
 git commit -m &amp;quot;update submodule&amp;quot;
 git push
-&lt;/code>&lt;/pre></description></item><item><title>Rmarkdown: Visible Example</title><link>https://cooperacademia.github.io/test_website/rmarkdown/examples/visible/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://cooperacademia.github.io/test_website/rmarkdown/examples/visible/</guid><description>
+&lt;/code>&lt;/pre></description></item><item><title>Rmarkdown: Visible Example</title><link>https://cooperacademia.github.io/rmarkdown/examples/visible/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://cooperacademia.github.io/rmarkdown/examples/visible/</guid><description>
 &lt;h2 id="visibility-example">visibility example&lt;/h2>
 &lt;p>You should be able to see this page.&lt;/p>
 &lt;p>Header of this page&lt;/p>
@@ -667,7 +667,7 @@ weight: 2
 type: docs
 visibleDate: &amp;quot;2021-02-01&amp;quot;
 ---
-&lt;/code>&lt;/pre></description></item><item><title>Docs: Launching Ponycopters</title><link>https://cooperacademia.github.io/test_website/docs/tasks/ponycopters/launching-ponycopters/</link><pubDate>Thu, 05 Jan 2017 00:00:00 +0000</pubDate><guid>https://cooperacademia.github.io/test_website/docs/tasks/ponycopters/launching-ponycopters/</guid><description>
+&lt;/code>&lt;/pre></description></item><item><title>Docs: Launching Ponycopters</title><link>https://cooperacademia.github.io/docs/tasks/ponycopters/launching-ponycopters/</link><pubDate>Thu, 05 Jan 2017 00:00:00 +0000</pubDate><guid>https://cooperacademia.github.io/docs/tasks/ponycopters/launching-ponycopters/</guid><description>
 &lt;div class="pageinfo pageinfo-primary">
 &lt;p>This is a placeholder page. Replace it with your own content.&lt;/p>
 &lt;/div>
@@ -934,7 +934,7 @@ This is a warning with a title.
 &lt;h3 id="external-links">External Links&lt;/h3>
 &lt;p>Stumptown PBR&amp;amp;B keytar plaid street art, forage XOXO pitchfork selvage affogato green juice listicle pickled everyday carry hashtag. Organic sustainable letterpress sartorial scenester intelligentsia swag bushwick. Put a bird on it stumptown neutra locavore. IPhone typewriter messenger bag narwhal. Ennui cold-pressed seitan flannel keytar, single-origin coffee adaptogen occupy yuccie williamsburg chillwave shoreditch forage waistcoat.&lt;/p>
 &lt;pre>&lt;code>This is the final element on the page and there should be no margin below this.
-&lt;/code>&lt;/pre></description></item><item><title>Rmarkdown: Invisible Example</title><link>https://cooperacademia.github.io/test_website/rmarkdown/examples/invisible/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://cooperacademia.github.io/test_website/rmarkdown/examples/invisible/</guid><description>
+&lt;/code>&lt;/pre></description></item><item><title>Rmarkdown: Invisible Example</title><link>https://cooperacademia.github.io/rmarkdown/examples/invisible/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://cooperacademia.github.io/rmarkdown/examples/invisible/</guid><description>
 &lt;h2 id="invisibility-example">Invisibility example&lt;/h2>
 &lt;p>You should not be able to see this page.&lt;/p>
 &lt;p>Header of this page&lt;/p>
@@ -945,7 +945,7 @@ weight: 2
 type: docs
 visibleDate: &amp;quot;2121-02-01&amp;quot;
 ---
-&lt;/code>&lt;/pre></description></item><item><title>Rmarkdown: Add new content</title><link>https://cooperacademia.github.io/test_website/rmarkdown/newcontent/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://cooperacademia.github.io/test_website/rmarkdown/newcontent/</guid><description>
+&lt;/code>&lt;/pre></description></item><item><title>Rmarkdown: Add new content</title><link>https://cooperacademia.github.io/rmarkdown/newcontent/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://cooperacademia.github.io/rmarkdown/newcontent/</guid><description>
 &lt;h2 id="create-your-website-content">Create your website content&lt;/h2>
 &lt;p>This Docsy Template Project uses the &lt;a href="https://github.com/google/docsy">Docsy&lt;/a> theme, and we have provided a skeleton documentation structure for you to use when you clone the repo. The full documentation can be found &lt;a href="https://www.docsy.dev/docs/deployment/">here&lt;/a>.&lt;/p>
 &lt;h3 id="work-with-r-markdown">Work with R markdown&lt;/h3>
@@ -1040,7 +1040,7 @@ like android, apple, etc. Then you should see the tab icon updated.&lt;/li>
 &lt;pre>&lt;code class="language-r">blogdown::build_site(build_rmd = &amp;quot;md5sum&amp;quot;)
 &lt;/code>&lt;/pre>
 &lt;p>All website content is in the &lt;code>/public&lt;/code> folder. Only this folder is required to publish your website.&lt;/p>
-&lt;p>Read &lt;a href="../rmarkdown/deploy">deploy&lt;/a> for some convenient ways we provide to publish the website.&lt;/p></description></item><item><title>Docs: Multi-Bear Domicile Setup</title><link>https://cooperacademia.github.io/test_website/docs/tutorials/multi-bear/</link><pubDate>Thu, 05 Jan 2017 00:00:00 +0000</pubDate><guid>https://cooperacademia.github.io/test_website/docs/tutorials/multi-bear/</guid><description>
+&lt;p>Read &lt;a href="../rmarkdown/deploy">deploy&lt;/a> for some convenient ways we provide to publish the website.&lt;/p></description></item><item><title>Docs: Multi-Bear Domicile Setup</title><link>https://cooperacademia.github.io/docs/tutorials/multi-bear/</link><pubDate>Thu, 05 Jan 2017 00:00:00 +0000</pubDate><guid>https://cooperacademia.github.io/docs/tutorials/multi-bear/</guid><description>
 &lt;div class="pageinfo pageinfo-primary">
 &lt;p>This is a placeholder page. Replace it with your own content.&lt;/p>
 &lt;/div>
@@ -1307,7 +1307,7 @@ This is a warning with a title.
 &lt;h3 id="external-links">External Links&lt;/h3>
 &lt;p>Stumptown PBR&amp;amp;B keytar plaid street art, forage XOXO pitchfork selvage affogato green juice listicle pickled everyday carry hashtag. Organic sustainable letterpress sartorial scenester intelligentsia swag bushwick. Put a bird on it stumptown neutra locavore. IPhone typewriter messenger bag narwhal. Ennui cold-pressed seitan flannel keytar, single-origin coffee adaptogen occupy yuccie williamsburg chillwave shoreditch forage waistcoat.&lt;/p>
 &lt;pre>&lt;code>This is the final element on the page and there should be no margin below this.
-&lt;/code>&lt;/pre></description></item><item><title>Docs: Porridge Assessment</title><link>https://cooperacademia.github.io/test_website/docs/tasks/porridge/</link><pubDate>Thu, 05 Jan 2017 00:00:00 +0000</pubDate><guid>https://cooperacademia.github.io/test_website/docs/tasks/porridge/</guid><description>
+&lt;/code>&lt;/pre></description></item><item><title>Docs: Porridge Assessment</title><link>https://cooperacademia.github.io/docs/tasks/porridge/</link><pubDate>Thu, 05 Jan 2017 00:00:00 +0000</pubDate><guid>https://cooperacademia.github.io/docs/tasks/porridge/</guid><description>
 &lt;div class="pageinfo pageinfo-primary">
 &lt;p>This is a placeholder page. Replace it with your own content.&lt;/p>
 &lt;/div>
@@ -1574,7 +1574,7 @@ This is a warning with a title.
 &lt;h3 id="external-links">External Links&lt;/h3>
 &lt;p>Stumptown PBR&amp;amp;B keytar plaid street art, forage XOXO pitchfork selvage affogato green juice listicle pickled everyday carry hashtag. Organic sustainable letterpress sartorial scenester intelligentsia swag bushwick. Put a bird on it stumptown neutra locavore. IPhone typewriter messenger bag narwhal. Ennui cold-pressed seitan flannel keytar, single-origin coffee adaptogen occupy yuccie williamsburg chillwave shoreditch forage waistcoat.&lt;/p>
 &lt;pre>&lt;code>This is the final element on the page and there should be no margin below this.
-&lt;/code>&lt;/pre></description></item><item><title>Rmarkdown: Deploy</title><link>https://cooperacademia.github.io/test_website/rmarkdown/deploy/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://cooperacademia.github.io/test_website/rmarkdown/deploy/</guid><description>
+&lt;/code>&lt;/pre></description></item><item><title>Rmarkdown: Deploy</title><link>https://cooperacademia.github.io/rmarkdown/deploy/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://cooperacademia.github.io/rmarkdown/deploy/</guid><description>
 &lt;h3 id="deploy-to-github-pages">Deploy to GitHub Pages&lt;/h3>
 &lt;p>Key feature: Fully automatic, &lt;strong>no need to build website locally&lt;/strong>. Yes, you can skip &lt;code>blogdown::build_site()&lt;/code> step locally.&lt;/p>
 &lt;h4 id="1-add-all-r-and-system-packages-to-depsyaml-file-that-are-required-to-render-your-rmarkdown-files">1. Add all R and system packages to &lt;code>/deps.yaml&lt;/code> file that are required to render your &lt;code>Rmarkdown&lt;/code> files&lt;/h4>
@@ -1668,7 +1668,7 @@ create a repository with code.&lt;/p>
 Add your own status badge
 &lt;/b>&lt;/summary
 &lt;p>You can get a status badge for you website by going to Netlify website, login, go to &lt;code>Site settings&lt;/code> &amp;gt; &lt;code>Status badges&lt;/code>, copy the status badge.&lt;/p>
-&lt;/details></description></item><item><title>Rmarkdown: TOC Example</title><link>https://cooperacademia.github.io/test_website/rmarkdown/examples/toc/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://cooperacademia.github.io/test_website/rmarkdown/examples/toc/</guid><description>
+&lt;/details></description></item><item><title>Rmarkdown: TOC Example</title><link>https://cooperacademia.github.io/rmarkdown/examples/toc/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://cooperacademia.github.io/rmarkdown/examples/toc/</guid><description>
 &lt;p>&lt;strong>This example shows how a table of content (TOC) is highlighted and automatically scroll&lt;/strong>
 &lt;strong>when the TOC is very long.&lt;/strong>&lt;/p>
 &lt;h2 id="title-1">Title 1&lt;/h2>
@@ -1900,7 +1900,7 @@ Add your own status badge
 &lt;li>a&lt;/li>
 &lt;li>a&lt;/li>
 &lt;li>a&lt;/li>
-&lt;/ul></description></item><item><title>Docs: Another Task</title><link>https://cooperacademia.github.io/test_website/docs/tasks/task/</link><pubDate>Thu, 05 Jan 2017 00:00:00 +0000</pubDate><guid>https://cooperacademia.github.io/test_website/docs/tasks/task/</guid><description>
+&lt;/ul></description></item><item><title>Docs: Another Task</title><link>https://cooperacademia.github.io/docs/tasks/task/</link><pubDate>Thu, 05 Jan 2017 00:00:00 +0000</pubDate><guid>https://cooperacademia.github.io/docs/tasks/task/</guid><description>
 &lt;div class="pageinfo pageinfo-primary">
 &lt;p>This is a placeholder page. Replace it with your own content.&lt;/p>
 &lt;/div>
@@ -2167,7 +2167,7 @@ This is a warning with a title.
 &lt;h3 id="external-links">External Links&lt;/h3>
 &lt;p>Stumptown PBR&amp;amp;B keytar plaid street art, forage XOXO pitchfork selvage affogato green juice listicle pickled everyday carry hashtag. Organic sustainable letterpress sartorial scenester intelligentsia swag bushwick. Put a bird on it stumptown neutra locavore. IPhone typewriter messenger bag narwhal. Ennui cold-pressed seitan flannel keytar, single-origin coffee adaptogen occupy yuccie williamsburg chillwave shoreditch forage waistcoat.&lt;/p>
 &lt;pre>&lt;code>This is the final element on the page and there should be no margin below this.
-&lt;/code>&lt;/pre></description></item><item><title>Docs: Another Tutorial</title><link>https://cooperacademia.github.io/test_website/docs/tutorials/tutorial2/</link><pubDate>Thu, 05 Jan 2017 00:00:00 +0000</pubDate><guid>https://cooperacademia.github.io/test_website/docs/tutorials/tutorial2/</guid><description>
+&lt;/code>&lt;/pre></description></item><item><title>Docs: Another Tutorial</title><link>https://cooperacademia.github.io/docs/tutorials/tutorial2/</link><pubDate>Thu, 05 Jan 2017 00:00:00 +0000</pubDate><guid>https://cooperacademia.github.io/docs/tutorials/tutorial2/</guid><description>
 &lt;div class="pageinfo pageinfo-primary">
 &lt;p>This is a placeholder page. Replace it with your own content.&lt;/p>
 &lt;/div>
@@ -2434,7 +2434,7 @@ This is a warning with a title.
 &lt;h3 id="external-links">External Links&lt;/h3>
 &lt;p>Stumptown PBR&amp;amp;B keytar plaid street art, forage XOXO pitchfork selvage affogato green juice listicle pickled everyday carry hashtag. Organic sustainable letterpress sartorial scenester intelligentsia swag bushwick. Put a bird on it stumptown neutra locavore. IPhone typewriter messenger bag narwhal. Ennui cold-pressed seitan flannel keytar, single-origin coffee adaptogen occupy yuccie williamsburg chillwave shoreditch forage waistcoat.&lt;/p>
 &lt;pre>&lt;code>This is the final element on the page and there should be no margin below this.
-&lt;/code>&lt;/pre></description></item><item><title>Rmarkdown: New Features</title><link>https://cooperacademia.github.io/test_website/rmarkdown/new_features/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://cooperacademia.github.io/test_website/rmarkdown/new_features/</guid><description>
+&lt;/code>&lt;/pre></description></item><item><title>Rmarkdown: New Features</title><link>https://cooperacademia.github.io/rmarkdown/new_features/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://cooperacademia.github.io/rmarkdown/new_features/</guid><description>
 &lt;p>New features we have added along with the R markdown support. These new features
 do not exist in original doscy theme.&lt;/p>
 &lt;h2 id="r-code-highlighting">R code highlighting&lt;/h2>
@@ -2596,7 +2596,7 @@ in the end of the link text.&lt;/p>
 &lt;p>&lt;strong>link with &lt;code>target=&amp;quot;_blank&amp;quot;&lt;/code>:&lt;/strong>&lt;/p>
 &lt;pre>&lt;code class="language-md">[a link to google{t_blank}](https://www.google.com)
 &lt;/code>&lt;/pre>
-&lt;p>&lt;a href="https://www.google.com">a link to google{t_blank}&lt;/a>&lt;/p></description></item><item><title>Rmarkdown: Common Problems</title><link>https://cooperacademia.github.io/test_website/rmarkdown/commonproblems/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://cooperacademia.github.io/test_website/rmarkdown/commonproblems/</guid><description>
+&lt;p>&lt;a href="https://www.google.com">a link to google{t_blank}&lt;/a>&lt;/p></description></item><item><title>Rmarkdown: Common Problems</title><link>https://cooperacademia.github.io/rmarkdown/commonproblems/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://cooperacademia.github.io/rmarkdown/commonproblems/</guid><description>
 &lt;h3 id="1-during-site-building">1. During site building:&lt;/h3>
 &lt;p>&lt;code>Error: Error building site: POSTCSS: failed to transform &amp;quot;scss/main.css&amp;quot; (text/css):resource &amp;quot;scss/scss/main.scss_4853eb546e7a6c0898ed71feae7357c0&amp;quot; not found in file cache&lt;/code>.&lt;/p>
 &lt;pre>&lt;code class="language-bash">cd YOUR_REPO
@@ -2628,7 +2628,7 @@ is a bug in the original &amp;ldquo;docsy&amp;rdquo; theme. To fix this, replace
 the same file name.&lt;/p>
 &lt;p>If your &lt;code>baseURL&lt;/code> is &amp;ldquo;/&amp;rdquo;, comment out or delete the &lt;code>style&lt;/code> section on top of &lt;code>/content/en/_index.html&lt;/code>,
 and follow the &lt;a href="https://www.docsy.dev/docs/adding-content/iconsimages/#add-images">original document&lt;/a>
-to add the background image.&lt;/p></description></item><item><title>Rmarkdown: Other</title><link>https://cooperacademia.github.io/test_website/rmarkdown/other/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://cooperacademia.github.io/test_website/rmarkdown/other/</guid><description>
+to add the background image.&lt;/p></description></item><item><title>Rmarkdown: Other</title><link>https://cooperacademia.github.io/rmarkdown/other/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://cooperacademia.github.io/rmarkdown/other/</guid><description>
 &lt;h2 id="additional-commands">Additional commands&lt;/h2>
 &lt;h3 id="1-docsy-theme-update">1. &lt;code>docsy&lt;/code> theme update&lt;/h3>
 &lt;ul>
@@ -2636,7 +2636,7 @@ to add the background image.&lt;/p></description></item><item><title>Rmarkdown: 
 &lt;/ul>
 &lt;pre>&lt;code>git submodule add https://github.com/google/docsy.git themes/docsy
 git submodule update --init --recursive
-&lt;/code>&lt;/pre></description></item><item><title>Docs: Example Page</title><link>https://cooperacademia.github.io/test_website/docs/getting-started/example-page/</link><pubDate>Thu, 05 Jan 2017 00:00:00 +0000</pubDate><guid>https://cooperacademia.github.io/test_website/docs/getting-started/example-page/</guid><description>
+&lt;/code>&lt;/pre></description></item><item><title>Docs: Example Page</title><link>https://cooperacademia.github.io/docs/getting-started/example-page/</link><pubDate>Thu, 05 Jan 2017 00:00:00 +0000</pubDate><guid>https://cooperacademia.github.io/docs/getting-started/example-page/</guid><description>
 &lt;div class="pageinfo pageinfo-primary">
 &lt;p>This is a placeholder page. Replace it with your own content.&lt;/p>
 &lt;/div>
@@ -2903,7 +2903,7 @@ This is a warning with a title.
 &lt;h3 id="external-links">External Links&lt;/h3>
 &lt;p>Stumptown PBR&amp;amp;B keytar plaid street art, forage XOXO pitchfork selvage affogato green juice listicle pickled everyday carry hashtag. Organic sustainable letterpress sartorial scenester intelligentsia swag bushwick. Put a bird on it stumptown neutra locavore. IPhone typewriter messenger bag narwhal. Ennui cold-pressed seitan flannel keytar, single-origin coffee adaptogen occupy yuccie williamsburg chillwave shoreditch forage waistcoat.&lt;/p>
 &lt;pre>&lt;code>This is the final element on the page and there should be no margin below this.
-&lt;/code>&lt;/pre></description></item><item><title>Docs: Parameter Reference</title><link>https://cooperacademia.github.io/test_website/docs/reference/parameter-reference/</link><pubDate>Thu, 05 Jan 2017 00:00:00 +0000</pubDate><guid>https://cooperacademia.github.io/test_website/docs/reference/parameter-reference/</guid><description>
+&lt;/code>&lt;/pre></description></item><item><title>Docs: Parameter Reference</title><link>https://cooperacademia.github.io/docs/reference/parameter-reference/</link><pubDate>Thu, 05 Jan 2017 00:00:00 +0000</pubDate><guid>https://cooperacademia.github.io/docs/reference/parameter-reference/</guid><description>
 &lt;div class="pageinfo pageinfo-primary">
 &lt;p>This is a placeholder page. Replace it with your own content.&lt;/p>
 &lt;/div>

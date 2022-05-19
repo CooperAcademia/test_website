@@ -1,4 +1,4 @@
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Newcastle Cognition Lab – Examples</title><link>https://cooperacademia.github.io/test_website/rmarkdown/examples/</link><description>Recent content in Examples on Newcastle Cognition Lab</description><generator>Hugo -- gohugo.io</generator><atom:link href="https://cooperacademia.github.io/test_website/rmarkdown/examples/index.xml" rel="self" type="application/rss+xml"/><item><title>Rmarkdown: Basic R markdown</title><link>https://cooperacademia.github.io/test_website/rmarkdown/examples/example_rmd/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://cooperacademia.github.io/test_website/rmarkdown/examples/example_rmd/</guid><description>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Newcastle Cognition Lab – Examples</title><link>https://cooperacademia.github.io/rmarkdown/examples/</link><description>Recent content in Examples on Newcastle Cognition Lab</description><generator>Hugo -- gohugo.io</generator><atom:link href="https://cooperacademia.github.io/rmarkdown/examples/index.xml" rel="self" type="application/rss+xml"/><item><title>Rmarkdown: Basic R markdown</title><link>https://cooperacademia.github.io/rmarkdown/examples/example_rmd/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://cooperacademia.github.io/rmarkdown/examples/example_rmd/</guid><description>
 &lt;script src="../../rmarkdown-libs/htmlwidgets/htmlwidgets.js">&lt;/script>
 &lt;script src="../../rmarkdown-libs/plotly-binding/plotly.js">&lt;/script>
 &lt;script src="../../rmarkdown-libs/typedarray/typedarray.min.js">&lt;/script>
@@ -53,7 +53,7 @@ ggplotly(p)
 &lt;div id="ref-R-2021" class="csl-entry">
 &lt;p>R Core Team. 2020. &lt;em>R: A Language and Environment for Statistical Computing&lt;/em>. Vienna, Austria: R Foundation for Statistical Computing. &lt;a href="https://www.R-project.org/">https://www.R-project.org/&lt;/a>.&lt;/p>
 &lt;/div>
-&lt;/div></description></item><item><title>Rmarkdown: Visible Example</title><link>https://cooperacademia.github.io/test_website/rmarkdown/examples/visible/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://cooperacademia.github.io/test_website/rmarkdown/examples/visible/</guid><description>
+&lt;/div></description></item><item><title>Rmarkdown: Visible Example</title><link>https://cooperacademia.github.io/rmarkdown/examples/visible/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://cooperacademia.github.io/rmarkdown/examples/visible/</guid><description>
 &lt;h2 id="visibility-example">visibility example&lt;/h2>
 &lt;p>You should be able to see this page.&lt;/p>
 &lt;p>Header of this page&lt;/p>
@@ -64,7 +64,7 @@ weight: 2
 type: docs
 visibleDate: &amp;quot;2021-02-01&amp;quot;
 ---
-&lt;/code>&lt;/pre></description></item><item><title>Rmarkdown: Invisible Example</title><link>https://cooperacademia.github.io/test_website/rmarkdown/examples/invisible/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://cooperacademia.github.io/test_website/rmarkdown/examples/invisible/</guid><description>
+&lt;/code>&lt;/pre></description></item><item><title>Rmarkdown: Invisible Example</title><link>https://cooperacademia.github.io/rmarkdown/examples/invisible/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://cooperacademia.github.io/rmarkdown/examples/invisible/</guid><description>
 &lt;h2 id="invisibility-example">Invisibility example&lt;/h2>
 &lt;p>You should not be able to see this page.&lt;/p>
 &lt;p>Header of this page&lt;/p>
@@ -75,7 +75,7 @@ weight: 2
 type: docs
 visibleDate: &amp;quot;2121-02-01&amp;quot;
 ---
-&lt;/code>&lt;/pre></description></item><item><title>Rmarkdown: TOC Example</title><link>https://cooperacademia.github.io/test_website/rmarkdown/examples/toc/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://cooperacademia.github.io/test_website/rmarkdown/examples/toc/</guid><description>
+&lt;/code>&lt;/pre></description></item><item><title>Rmarkdown: TOC Example</title><link>https://cooperacademia.github.io/rmarkdown/examples/toc/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://cooperacademia.github.io/rmarkdown/examples/toc/</guid><description>
 &lt;p>&lt;strong>This example shows how a table of content (TOC) is highlighted and automatically scroll&lt;/strong>
 &lt;strong>when the TOC is very long.&lt;/strong>&lt;/p>
 &lt;h2 id="title-1">Title 1&lt;/h2>
