@@ -21,9 +21,8 @@ Dixi ad aestum.&lt;/p>
 &lt;p>This is a blockquote following a header. Bacon ipsum dolor sit amet t-bone doner shank drumstick, pork belly porchetta chuck sausage brisket ham hock rump pig. Chuck kielbasa leberkas, pork bresaola ham hock filet mignon cow shoulder short ribs biltong.&lt;/p>
 &lt;/blockquote>
 &lt;h3 id="header-3">Header 3&lt;/h3>
-&lt;pre>&lt;code>This is a code block following a header.
-&lt;/code>&lt;/pre>
-&lt;h4 id="header-4">Header 4&lt;/h4>
+&lt;pre tabindex="0">&lt;code>This is a code block following a header.
+&lt;/code>&lt;/pre>&lt;h4 id="header-4">Header 4&lt;/h4>
 &lt;ul>
 &lt;li>This is an unordered list following a header.&lt;/li>
 &lt;li>This is an unordered list following a header.&lt;/li>
@@ -187,24 +186,21 @@ Dixi ad aestum.&lt;/p>
 &lt;p>Code snippets like &lt;code>var foo = &amp;quot;bar&amp;quot;;&lt;/code> can be shown inline.&lt;/p>
 &lt;p>Also, &lt;code>this should vertically align&lt;/code> &lt;del>&lt;code>with this&lt;/code>&lt;/del> &lt;del>and this&lt;/del>.&lt;/p>
 &lt;p>Code can also be shown in a block element.&lt;/p>
-&lt;pre>&lt;code>foo := &amp;quot;bar&amp;quot;;
+&lt;pre tabindex="0">&lt;code>foo := &amp;quot;bar&amp;quot;;
 bar := &amp;quot;foo&amp;quot;;
-&lt;/code>&lt;/pre>
-&lt;p>Code can also use syntax highlighting.&lt;/p>
-&lt;pre>&lt;code class="language-go">func main() {
-input := `var foo = &amp;quot;bar&amp;quot;;`
-lexer := lexers.Get(&amp;quot;javascript&amp;quot;)
-iterator, _ := lexer.Tokenise(nil, input)
-style := styles.Get(&amp;quot;github&amp;quot;)
-formatter := html.New(html.WithLineNumbers())
-var buff bytes.Buffer
-formatter.Format(&amp;amp;buff, style, iterator)
-fmt.Println(buff.String())
+&lt;/code>&lt;/pre>&lt;p>Code can also use syntax highlighting.&lt;/p>
+&lt;div class="highlight">&lt;pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4">&lt;code class="language-go" data-lang="go">&lt;span style="color:#66d9ef">func&lt;/span> &lt;span style="color:#a6e22e">main&lt;/span>() {
+&lt;span style="color:#a6e22e">input&lt;/span> &lt;span style="color:#f92672">:=&lt;/span> &lt;span style="color:#e6db74">`var foo = &amp;#34;bar&amp;#34;;`&lt;/span>
+&lt;span style="color:#a6e22e">lexer&lt;/span> &lt;span style="color:#f92672">:=&lt;/span> &lt;span style="color:#a6e22e">lexers&lt;/span>.&lt;span style="color:#a6e22e">Get&lt;/span>(&lt;span style="color:#e6db74">&amp;#34;javascript&amp;#34;&lt;/span>)
+&lt;span style="color:#a6e22e">iterator&lt;/span>, &lt;span style="color:#a6e22e">_&lt;/span> &lt;span style="color:#f92672">:=&lt;/span> &lt;span style="color:#a6e22e">lexer&lt;/span>.&lt;span style="color:#a6e22e">Tokenise&lt;/span>(&lt;span style="color:#66d9ef">nil&lt;/span>, &lt;span style="color:#a6e22e">input&lt;/span>)
+&lt;span style="color:#a6e22e">style&lt;/span> &lt;span style="color:#f92672">:=&lt;/span> &lt;span style="color:#a6e22e">styles&lt;/span>.&lt;span style="color:#a6e22e">Get&lt;/span>(&lt;span style="color:#e6db74">&amp;#34;github&amp;#34;&lt;/span>)
+&lt;span style="color:#a6e22e">formatter&lt;/span> &lt;span style="color:#f92672">:=&lt;/span> &lt;span style="color:#a6e22e">html&lt;/span>.&lt;span style="color:#a6e22e">New&lt;/span>(&lt;span style="color:#a6e22e">html&lt;/span>.&lt;span style="color:#a6e22e">WithLineNumbers&lt;/span>())
+&lt;span style="color:#66d9ef">var&lt;/span> &lt;span style="color:#a6e22e">buff&lt;/span> &lt;span style="color:#a6e22e">bytes&lt;/span>.&lt;span style="color:#a6e22e">Buffer&lt;/span>
+&lt;span style="color:#a6e22e">formatter&lt;/span>.&lt;span style="color:#a6e22e">Format&lt;/span>(&lt;span style="color:#f92672">&amp;amp;&lt;/span>&lt;span style="color:#a6e22e">buff&lt;/span>, &lt;span style="color:#a6e22e">style&lt;/span>, &lt;span style="color:#a6e22e">iterator&lt;/span>)
+&lt;span style="color:#a6e22e">fmt&lt;/span>.&lt;span style="color:#a6e22e">Println&lt;/span>(&lt;span style="color:#a6e22e">buff&lt;/span>.&lt;span style="color:#a6e22e">String&lt;/span>())
 }
-&lt;/code>&lt;/pre>
-&lt;pre>&lt;code>Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-&lt;/code>&lt;/pre>
-&lt;p>Inline code inside table cells should still be distinguishable.&lt;/p>
+&lt;/code>&lt;/pre>&lt;/div>&lt;pre tabindex="0">&lt;code>Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
+&lt;/code>&lt;/pre>&lt;p>Inline code inside table cells should still be distinguishable.&lt;/p>
 &lt;table>
 &lt;thead>
 &lt;tr>
@@ -265,5 +261,5 @@ This is a warning with a title!
 &lt;p>Bacon ipsum dolor sit amet t-bone doner shank drumstick, pork belly porchetta chuck sausage brisket ham hock rump pig. Chuck kielbasa leberkas, pork bresaola ham hock filet mignon cow shoulder short ribs biltong.&lt;/p>
 &lt;h3 id="used-ram">Used RAM&lt;/h3>
 &lt;p>Bacon ipsum dolor sit amet t-bone doner shank drumstick, pork belly porchetta chuck sausage brisket ham hock rump pig. Chuck kielbasa leberkas, pork bresaola ham hock filet mignon cow shoulder short ribs biltong.&lt;/p>
-&lt;pre>&lt;code>This is the final element on the page and there should be no margin below this.
+&lt;pre tabindex="0">&lt;code>This is the final element on the page and there should be no margin below this.
 &lt;/code>&lt;/pre></description></item></channel></rss>
