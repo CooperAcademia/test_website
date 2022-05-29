@@ -21,7 +21,13 @@ defaultContentLanguageInSubdir = false
 # Useful when translating.
 enableMissingTranslationPlaceholders = true
 
-disableKinds = ["taxonomy", "taxonomyTerm"]
+# disableKinds = ["taxonomy", "taxonomyTerm"]
+
+
+[taxonomies]
+  category = 'categories'
+  membertype = 'membertypes'
+  tag = 'tags'
 
 # Highlighting config
 pygmentsCodeFences = false
@@ -35,6 +41,7 @@ pygmentsOptions = "linenos=table"
 # Configure how URLs look like per section.
 [permalinks]
 blog = "/:section/:year/:month/:day/:slug/"
+media = "/:section/:year/:month/:day/:slug/"
 
 ## Configuration for BlackFriday markdown parser: https://github.com/russross/blackfriday
 ## not used in HUGO > 0.6
@@ -162,11 +169,11 @@ archived_version = false
 # User interface configuration
 [params.ui]
 # Enable to show the side bar menu in its compact state.
-sidebar_menu_compact = false
+sidebar_menu_compact = true
 #  Set to true to disable breadcrumb navigation.
 breadcrumb_disable = false
 #  Set to true to hide the sidebar search box (the top nav search box will still be displayed if search is enabled)
-sidebar_search_disable = false
+sidebar_search_disable = true
 #  Set to false if you don't want to display a logo (/assets/icons/logo.svg) in the top nav bar
 navbar_logo = true
 # Set to true to disable the About link in the site footer
@@ -227,29 +234,9 @@ enable = true
 # Top-level navigation (horizontal)
 ##
 [[menu.main]]
-  name = "Documentation"
+  name = "Media"
   weight = 1
-  url = "docs/"
-  [[menu.main]]
-    name = "First level"
-    url = "https://www.docsy.dev/docs/"
-    parent = "Documentation"
-    weight = 1
-  [[menu.main]]
-    name = "Second level"
-    url = "https://www.docsy.dev/docs/"
-    parent = "Documentation"
-    weight = 2
-    [menu.main.params]
-      level = 2
-  [[menu.main]]
-    name = "Third level"
-    url = "https://www.docsy.dev/docs/"
-    parent = "Documentation"
-    weight = 2
-    [menu.main.params]
-      level = 3
-##
+  url = "media/"
 [[menu.main]]
   name = "Docsy + Rmd"
   weight = 2
@@ -289,17 +276,3 @@ enable = true
     url = "rmarkdown/examples"
     parent = "Docsy + Rmd"
     weight = 7
-##
-[[menu.main]]
-  name = "About"
-  weight = 3
-  url = "about/"
-[[menu.main]]
-  name = "Blog"
-  weight = 4
-  url = "blog/"
-[[menu.main]]
-  name = "People"
-  weight = 5
-  url = "people/"
-

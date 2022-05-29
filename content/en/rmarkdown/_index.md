@@ -1,6 +1,6 @@
 ---
-title: " Hugo Docsy + Rmarkdown support"
-linkTitle: "Rmarkdown"
+linkTitle: Rmarkdown
+title: ' Hugo Docsy + Rmarkdown support'
 type: docs
 ---
 

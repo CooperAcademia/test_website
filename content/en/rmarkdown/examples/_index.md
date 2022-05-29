@@ -1,6 +1,6 @@
 ---
-title: "Examples"
-linkTitle: "Examples"
+linkTitle: Examples
+title: Examples
 type: docs
 ---
 

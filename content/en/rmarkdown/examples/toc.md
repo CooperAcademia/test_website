@@ -1,8 +1,8 @@
 ---
-title: "TOC Example"
-linkTitle: "TOC example"
-weight: 4
+linkTitle: TOC example
+title: TOC Example
 type: docs
+weight: 4
 ---
 **This example shows how a table of content (TOC) is highlighted and automatically scroll**
 **when the TOC is very long.**

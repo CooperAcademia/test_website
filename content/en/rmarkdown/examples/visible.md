@@ -1,9 +1,9 @@
 ---
-title: "Visible Example"
-linkTitle: "Visible example"
-weight: 2
+linkTitle: Visible example
+title: Visible Example
 type: docs
 visibleDate: "2021-02-01"
+weight: 2
 ---
 
 ## visibility example

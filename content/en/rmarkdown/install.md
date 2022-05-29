@@ -1,8 +1,8 @@
 ---
-title: "Installation"
-linkTitle: "Installation"
-weight: 2
+linkTitle: Installation
+title: Installation
 type: docs
+weight: 2
 ---
 
 ## Quick start

@@ -1,8 +1,8 @@
 ---
-title: "Other"
-linkTitle: "Other"
-weight: 8
+linkTitle: Other
+title: Other
 type: docs
+weight: 8
 ---
 
 ## Additional commands 

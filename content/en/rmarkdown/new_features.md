@@ -1,8 +1,8 @@
 ---
-title: "New Features"
-author: "xx"
-date: "2/3/2021"
+author: xx
+date: 2/3/2021
 output: html_document
+title: New Features
 type: docs
 weight: 5
 ---

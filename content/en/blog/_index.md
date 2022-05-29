@@ -1,9 +1,9 @@
 ---
-title: "Docsy Blog"
-linkTitle: "Blog"
+linkTitle: Blog
 menu:
   main:
-    weight: 30
+    weight: 35
+title: Cog Lab Blog
 ---
 
 

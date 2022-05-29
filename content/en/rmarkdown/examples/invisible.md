@@ -1,9 +1,9 @@
 ---
-title: "Invisible Example"
-linkTitle: "Invisible example"
-weight: 3
+linkTitle: Invisible example
+title: Invisible Example
 type: docs
 visibleDate: "2121-02-01"
+weight: 3
 ---
 
 ## Invisibility example

@@ -1,8 +1,8 @@
 ---
-title: "Common Problems"
-linkTitle: "Common Problems"
-weight: 6
+linkTitle: Common Problems
+title: Common Problems
 type: docs
+weight: 6
 ---
 
 ### 1. During site building: 

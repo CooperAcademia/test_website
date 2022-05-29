@@ -1,0 +1,21 @@
+{{ $icon := .Get "icon" | default "fas fa-arrow-alt-circle-right" }}
+{{ $url := .Get "url" }}
+<a class="btn btn-lg btn-primary mr-3 mb-4" href="{{ $url }}">
+  {{ .Inner }}
+  <i class="{{ $icon }} ml-2"></i>
+</a>
+<!--
+<div class="mx-auto">
+	<a class="btn btn-lg btn-primary mr-3 mb-4" href="{ {< relref "/rmarkdown/" >}}">
+		Learn More 
+	</a>
+	<a class="btn btn-lg btn-info mr-3 mb-4" href="https://github.com/dcassol/docsy_Rmarkdown">
+		Github <i class="fab fa-github ml-2 "></i>
+	</a>
+	<a class="btn btn-lg btn-info mr-3 mb-4" href="https://github.com/dcassol/docsy_Rmarkdown/generate">
+		Use this template<i style="color: #85b185;" class="fa fa-play ml-2 "></i>
+	</a>
+	<p class="lead mt-5">Decision making research done well!</p>
+	{ {< blocks/link-down color="info" >}}
+</div>
+ -->

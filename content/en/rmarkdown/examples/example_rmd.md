@@ -1,11 +1,11 @@
 ---
-title: "Basic R markdown"
-author: "author"
-date: "1/28/2021"
-output: html_document
+author: author
 bibliography: bibtex.bib
-weight: 1
+date: 1/28/2021
+output: html_document
+title: Basic R markdown
 type: docs
+weight: 1
 ---
 
 <script src="/rmarkdown-libs/htmlwidgets/htmlwidgets.js"></script>

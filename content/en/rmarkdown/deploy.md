@@ -1,8 +1,8 @@
 ---
-title: "Deploy"
-linkTitle: "Deploy"
-weight: 4
+linkTitle: Deploy
+title: Deploy
 type: docs
+weight: 4
 ---
 
 ### Deploy to GitHub Pages

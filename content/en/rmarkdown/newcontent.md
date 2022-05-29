@@ -1,8 +1,8 @@
 ---
-title: "Add new content"
-linkTitle: "New content"
-weight: 3
+linkTitle: New content
+title: Add new content
 type: docs
+weight: 3
 ---
 
 ## Create your website content
